@@ -1,0 +1,6 @@
+<% if   !@cart_content.blank? %>
+  $('#cart').html("<%=j render @cart %>");
+<% else  %>
+   $('#cart').hide('blind', 1000);
+<% end %>
+
