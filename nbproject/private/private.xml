@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/home/awt/NetBeansProjects/depot/app/controllers/carts_controller.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/views/carts/destroy.js.erb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/views/line_items/create.js.erb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/views/line_items/decrement.js.erb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/helpers/line_items_helper.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/controllers/line_items_controller.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/views/layouts/application.html.erb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/views/carts/_cart.html.erb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/controllers/application_controller.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/test/functional/store_controller_test.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/controllers/products_controller.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/views/products/who_bought.atom.builder</file>
+        <file>file:/home/awt/NetBeansProjects/depot/app/models/product.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/config/routes.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/Gemfile</file>
+        <file>file:/home/awt/NetBeansProjects/depot/script/load_orders.rb</file>
+        <file>file:/home/awt/NetBeansProjects/depot/script/rails</file>
+    </open-files>
+</project-private>
