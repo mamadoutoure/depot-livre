@@ -7,5 +7,4 @@ class LineItem < ActiveRecord::Base
     product.price * quantity
   end
 
-#rajout de commentaire
 end
